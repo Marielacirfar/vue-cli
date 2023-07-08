@@ -69,6 +69,7 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: rgb(207, 238, 207);
   
 }
 
