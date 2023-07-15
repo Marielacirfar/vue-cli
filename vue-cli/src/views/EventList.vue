@@ -41,9 +41,7 @@ export default {
   align-items: center;
   background-size: cover; /* Ajustar tamaño de la imagen al contenedor */
   background-repeat: no-repeat; /* Evitar repetición de la imagen */
-  margin-left: auto;
-  margin-right: auto;
-
+  
   
 }
 

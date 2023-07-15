@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-    <router-link to="/">Events</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="{ name: 'EventList'}">Events</router-link> |
+    <router-link to="{ name: 'AbaoutView'}">About</router-link>
     </div>
     <h1>Eventos para todos</h1>
     <router-view/>
