@@ -4,7 +4,7 @@
       <span>@ {{ event.time }} on {{ event.date }}</span>
       <h4>{{ event.title }}</h4>
       
-      <img :src="event.image" alt="Evento" class="event-image" style="width: 100%; height: auto;">
+      <!--<img :src="event.image" alt="Evento" class="event-image" style="width: 100%; height: auto;">-->
     </div>
   </template>
   
